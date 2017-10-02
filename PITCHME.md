@@ -168,6 +168,8 @@ esa社の皆様に感謝 (\\( ⁰⊖⁰)/)
 
 https://github.com/rurema/doctree/issues/433
 
+---
+
 ## 取り組みは広がっている
 
 サンプルコード追加の月次レポート
@@ -183,5 +185,7 @@ rurema esa の参加者
 ---
 
 ## Ruby 磨きませんか？
+
+---
 
 ## Fin
