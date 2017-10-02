@@ -164,7 +164,7 @@ esa社の皆様に感謝 (\\( ⁰⊖⁰)/)
 
 +++
 
-招待コードは doctree/rurema の Issue 433 をご確認ください
+招待コードは rurema/doctree の Issue 433 をご確認ください
 
 https://github.com/rurema/doctree/issues/433
 
